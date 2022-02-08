@@ -1,5 +1,5 @@
 const { validatePermissions } = require('../../functions');
-const { BOT_PREFIX, BOT_OWNER } = process.env;
+const { %, 938050330875281448 } = process.env;
 
 module.exports = async (client, message) => {
 	if (message.author.bot) return;
