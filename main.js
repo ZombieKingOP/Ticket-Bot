@@ -11,4 +11,4 @@ client.aliases = new Collection();
 });
 
 keepAlive();
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.OTQwNDY2MTMxNzcxMjI0MDY3.YgHzVg.BrXxGKPlr3D5RxOGewzX3DmDtB8);
